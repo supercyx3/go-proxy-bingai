@@ -33,7 +33,7 @@ export const usePromptStore = defineStore(
         type: 1,
         name: 'ChatGPT 中文调教指南 - 繁体',
         url: './data/prompts/prompts-zh-TW.json',
-        refer: 'https://github.com/PlexPt/awesome-chatgpt-prompts-zh',
+        refer: 'https://github.com/supercyx3/awesome-chatgpt-prompts-zh',
       },
       {
         type: 1,
