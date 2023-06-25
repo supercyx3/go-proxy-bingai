@@ -25,13 +25,13 @@ export const usePromptStore = defineStore(
     const promptDownloadConfig = ref<Array<IPromptDownloadConfig>>([
       {
         type: 1,
-        name: 'ChatGPT 中文调教指南 - 简体',
+        name: 'ChatGPT-CYX 中文调教指南 - 简体',
         url: './data/prompts/prompts-zh.json',
         refer: 'https://github.com/supercyx3/awesome-chatgpt-prompts-zh',
       },
       {
         type: 1,
-        name: 'ChatGPT 中文调教指南 - 繁体',
+        name: 'ChatGPT-CYX 中文调教指南 - 繁体',
         url: './data/prompts/prompts-zh-TW.json',
         refer: 'https://github.com/supercyx3/awesome-chatgpt-prompts-zh',
       },
