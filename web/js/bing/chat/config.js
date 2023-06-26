@@ -264,7 +264,7 @@ _w['_sydConvConfig'] = {
   enableCopyHtml: false,
   enableExportPdfWithAnswerScreenshot: false,
   enableExportDocxWithAnswerScreenshot: false,
-  enableGetChats: true,
+  enableGetChats: false,
   enableExportDocxWithFormat: false,
   enableThreadSync: true,
   enableCssSplitConvModeOnClick: false,
